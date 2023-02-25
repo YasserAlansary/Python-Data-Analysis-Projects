@@ -5,6 +5,7 @@ as well as popular sizes and categories for their clients, as well as sales over
 <br />
 
 2- Layoffs: There were a lot of layoffs in all big tech companies and a lot of medium and small companies in different industries in 2022 and 2023,
+so in this project, I analysed data about 400 companies to know total numbers of layoffs,
 <br />
-so in this project, I analysed data about 400 companies to know total numbers of layoffs, top 10 and workforce percentage impacted in each company and industry, and a lot of other things.
+top 10 and workforce percentage impacted in each company and industry, and a lot of other things.
 <br />
