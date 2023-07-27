@@ -17,5 +17,8 @@
 6- Durgs: The first healthcare project, In this project, I analysed data about drugs, which have killed millions of people worldwide and are currently one of the biggest problems in the world. I discovered the main drugs, which cause a lot of delays, as well as the most widely used forms, average prices, and a wealth of useful information. 
 <br />
 
+7- Amazon Sales: In this project, I analysed data about [Amazon](https://www.amazon.com/), the best e-commerce site in the world, to learn about the most popular products, total sales, common shipping methods, the number of orders that are shipped to customers each day, total sales, and many other fascinating details.
+
+
 # Those Projects' Dashboards: 
 Here: [Tableau](https://public.tableau.com/app/profile/yasser.alansary#!/)
