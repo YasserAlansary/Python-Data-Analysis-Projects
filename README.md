@@ -11,5 +11,8 @@
 4- Used Cars: In this project, I studied data on over 30 car brands from 1994 to 2020 to determine pricing, engine power, and maximum power for each brand, the most popular fuel type, and the popularity of each brand in each state and region.
 <br />
 
-5-Supply Chain: In this project, I analysed data from 100 companies and their supply chains, as well as their products, orders, number of sold products, prices, manufacturing location, transportation routes and costs, and a variety of other factors. 
+5- Supply Chain: In this project, I analysed data from 100 companies and their supply chains, as well as their products, orders, number of sold products, prices, manufacturing location, transportation routes and costs, and a variety of other factors. 
+<br />
+
+6- Durgs: The first healthcare project, In this project, I analysed data about drugs, which have killed millions of people worldwide and are currently one of the biggest problems in the world. I discovered the main drugs, which cause a lot of delays, as well as the most widely used forms, average prices, and a wealth of useful information. 
 <br />
